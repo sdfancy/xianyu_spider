@@ -9,3 +9,4 @@ playwright>=1.32.0
 requests>=2.26.0
 
 ## python3.8 spider_v2.py "macbook air m1" --personal-only --max-pages 1 --min-price 2000 --max-price 2500
+## python3.8 ai_filter.py "macbook air m1" --auto-mode
